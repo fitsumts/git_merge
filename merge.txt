@@ -4,3 +4,5 @@ content to append
 =======
 totally different content to merge later
 >>>>>>> new_branch_to_merge_later
+
+That would be great
